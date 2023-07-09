@@ -1,0 +1,17 @@
+# Ignore node modules
+/node_modules
+
+# Ignore build output
+/dist
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore hidden files
+.*
+
+# Ignore prompts that you don't want to share
+/private_prompts
