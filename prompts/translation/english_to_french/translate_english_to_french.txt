@@ -1,0 +1,8 @@
+
+{
+    "prompt": "Translate the following English text to French: '{text}'",
+    "prompt_category": "Translation",
+    "prompt_subcategory": "English to French",
+    "prompt_language": "French",
+    "prompt_engine": "davinci"
+}
