@@ -84,7 +84,7 @@ Navigate to the project directory using this command:
 cd COGOPS_Library
 Copy
 Install any dependencies or requirements for the project using this command:
-pip install -r requirements.txt
+pip install -r requirements.txt # TODO add requirerments.txt
 Copy
 Create a virtual environment for the project using this command:
 python -m venv venv
